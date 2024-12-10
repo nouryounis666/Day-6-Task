@@ -1,0 +1,7 @@
+C:\Users\DEll\Source\Repos\Day 6 Task\Day 6 Task\bin\Debug\Day 6 Task.exe.config
+C:\Users\DEll\Source\Repos\Day 6 Task\Day 6 Task\bin\Debug\Day 6 Task.exe
+C:\Users\DEll\Source\Repos\Day 6 Task\Day 6 Task\bin\Debug\Day 6 Task.pdb
+C:\Users\DEll\Source\Repos\Day 6 Task\Day 6 Task\obj\Debug\Day 6 Task.csproj.AssemblyReference.cache
+C:\Users\DEll\Source\Repos\Day 6 Task\Day 6 Task\obj\Debug\Day 6 Task.csproj.CoreCompileInputs.cache
+C:\Users\DEll\Source\Repos\Day 6 Task\Day 6 Task\obj\Debug\Day 6 Task.exe
+C:\Users\DEll\Source\Repos\Day 6 Task\Day 6 Task\obj\Debug\Day 6 Task.pdb
